@@ -1,1 +1,1 @@
-My first readme
+Non empty README.md at root
